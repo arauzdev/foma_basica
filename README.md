@@ -1,2 +1,1 @@
-# foma_basica
-Forma basica con Javascript, CSS, Bootstrap
+Forma básica con HTML, javascript, CSS y Bootstrap.
